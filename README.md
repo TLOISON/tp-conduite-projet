@@ -80,4 +80,6 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
 * Titouan Teyssier.
 * Valentin Pelloin.
+*Théo Loison.
+*Corentin Petit.
 **Arthur Prod'Homme Thibault Brocherieux
